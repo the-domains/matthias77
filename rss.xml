@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[Matthias77]]></title>
         <description><![CDATA[Matthias77]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/matthias77/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 06:26:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Apr 2016 11:54:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/matthias77/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd8f74d6-afcd-459e-84d2-2e20be029a8c.jpg">]]></description>
+            <link>https://thegrid.ai/matthias77/13d9e232-d5c5-4b84-ae21-ce85dc22f687/index.html</link>
+            <guid isPermaLink="false">13d9e232-d5c5-4b84-ae21-ce85dc22f687</guid>
+            <pubDate>Sat, 16 Apr 2016 11:54:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Social
 Media in Hotellerie und Gastronomie</p>]]></description>
-            <link>undefined042e4abd-672e-406a-ae48-f095e17d0dae/index.html</link>
+            <link>https://thegrid.ai/matthias77/042e4abd-672e-406a-ae48-f095e17d0dae/index.html</link>
             <guid isPermaLink="false">042e4abd-672e-406a-ae48-f095e17d0dae</guid>
             <pubDate>Sat, 16 Apr 2016 06:26:07 GMT</pubDate>
         </item>
